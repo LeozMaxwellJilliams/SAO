@@ -1,0 +1,6 @@
+The first line is the number of portals.
+
+The next lines: The first 2 numbers are the X + Y coordinates of the portal itself. 
+		The second pair of numbers are the X + Y Coordinates of the ball after being transported
+		The 3rd pair of numbers are the Length + Height 
+		And the last number is the number of the map to be transported to

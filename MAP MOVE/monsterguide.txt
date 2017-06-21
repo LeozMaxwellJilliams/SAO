@@ -1,0 +1,1 @@
+hp,exp,level,atk,defence,drops,image,x,y,sprite,speed,Range,sight,sightspeed,type,frames
